@@ -17,7 +17,7 @@
     "@stackbit/unibit": "^0.1.32",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.21",
-    "minimist": "^1.2.5",
-    "nodemon": "^1.19.1"
+    "minimist": "^1.2.7",
+    "nodemon": "^2.0.20"
   }
 }
